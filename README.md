@@ -33,10 +33,28 @@ eficientes e sustentáveis. Com isso, o usuário não apenas reduz suas despesas
 contribui para a preservação ambiental, diminuindo a pressão sobre a necessidade de expansão da
 infraestrutura de geração de energia.
 
+# Implantações
 
-#Dispositivo e Thingerio
+1. Potênciomentro
+2. placa esp32
+3. monitor lcd 1602
+
+# Bibliotecas
+
+1. thinger.io
+2. LiquidCrystal I2C
+3. LiquidCrystal
+
+# Objetivo
+
+Calcular o consumo de Kwh de um aparelho e com isso saber o quanto o dispositivo irá acarretar em gastos na conta de luz no final do mês,
+apartir dessa informação é possivel reduzir o consumo mensal.
+
+# Dispositivo e Thingerio
 ![{D0E9795A-8823-400B-8DEF-53427926E6AD}](https://github.com/user-attachments/assets/8e74afbd-c825-4373-99aa-208fe438e626)
 
 ![{A39E9EE6-E783-4BDE-A4C2-20E32749E519}](https://github.com/user-attachments/assets/d04e386d-2e0c-4492-b1ea-cca684884773)
 
+# Video
 
+Acesse em: https://youtu.be/LXUrh5LvX1c
